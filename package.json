@@ -1,0 +1,11 @@
+{
+  "name": "ts-backend",
+  "version": "1.0.0",
+  "description": "A sample project for generating a node & express backend using TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael O. Suleiman",
+  "license": "ISC"
+}
